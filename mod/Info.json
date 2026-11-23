@@ -1,0 +1,7 @@
+{
+  "Id": "FoxForgeVote",
+  "DisplayName": "FoxForge Dialogue Vote",
+  "Version": "0.1.0",
+  "AssemblyName": "FoxForgeVote.dll",
+  "EntryMethod": "FoxForgeVote.Entry.Load"
+}

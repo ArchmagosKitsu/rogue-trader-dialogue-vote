@@ -1,0 +1,6 @@
+{
+  "url": "https://your-ebs.example/game",
+  "key": "replace-with-private-game-key",
+  "enabled": false, "autoSelect": false
+}
+
